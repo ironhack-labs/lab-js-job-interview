@@ -105,7 +105,7 @@ Given the code above, answer the following questions:
 <br>
 
 Once you write down your answer, run the code above and check if it is correct.
-
+b
 
 <br>
 
