@@ -13,19 +13,19 @@
    <h2>Learning Goals</h2>
   </summary>
 
- This exercise allows you to practice and apply the concepts and techniques taught in class. 
+This exercise allows you to practice and apply the concepts and techniques taught in class.
 
-  Upon completion of this exercise, you will be able to:
+Upon completion of this exercise, you will be able to:
 
-  - Determine correctly the variable scope in JavaScript code,
-  - Interpret correctly how hoisting affects the variables and functions in JavaScript code,
-  - Determine how variable shadowing affects the variables in JavaScript,
-  - Interpret correctly how primitive values are passed and compared in JavaScript,
-  - Interpret correctly how objects and arrays are passed and compared in JavaScript,
-  - Interpret correctly how function parameters behave in JavaScript,
+- Determine correctly the variable scope in JavaScript code,
+- Interpret correctly how hoisting affects the variables and functions in JavaScript code,
+- Determine how variable shadowing affects the variables in JavaScript,
+- Interpret correctly how primitive values are passed and compared in JavaScript,
+- Interpret correctly how objects and arrays are passed and compared in JavaScript,
+- Interpret correctly how function parameters behave in JavaScript,
 
   <br>
-  <hr> 
+  <hr>
 
 </details>
 
@@ -56,8 +56,6 @@ git push origin master
 
 <br>
 
-
-
 ## Instructions
 
 We encourage you to try to solve the challenges without running the code first. Once you have written down your answer for a challenge, run the code and check if your answer was correct. If your answer was incorrect, try to understand why the code behaves the way it does.
@@ -87,7 +85,6 @@ function bar() {
 
 bar();
 
-
 console.log(foo);
 ```
 
@@ -96,16 +93,14 @@ console.log(foo);
 Given the code above, answer the following questions:
 
 1. Which of the following will be the output of the above code? Why?
-  <br>a) `"abc"` and `"xyz"`
-  <br>b) `"xyz"` and `"xyz"`
-  <br>c) `undefined` and `"xyz"`
-  <br>d) ReferenceError: foo is not defined
-
+   <br>a) `"abc"` and `"xyz"`
+   <br>b) `"xyz"` and `"xyz"`
+   <br>c) `undefined` and `"xyz"`
+   <br>d) ReferenceError: foo is not defined
 
 <br>
 
 Once you write down your answer, run the code above and check if it is correct.
-
 
 <br>
 
@@ -122,8 +117,7 @@ function example(a) {
 
 example(a);
 
-
-console.log(a);  // Console log 2
+console.log(a); // Console log 2
 ```
 
 <br>
@@ -131,11 +125,10 @@ console.log(a);  // Console log 2
 Given the code above, without running the code, answer the following question:
 
 1. Which of the following will be the output of the above code? Why?
-  <br>a) `10` and `10`
-  <br>b) `1` and `10`
-  <br>c) `10` and `1`
-  <br>d) ReferenceError: a is not defined
-
+   <br>a) `10` and `10`
+   <br>b) `1` and `10`
+   <br>c) `10` and `1`
+   <br>d) ReferenceError: a is not defined
 
 <br>
 
@@ -158,16 +151,16 @@ function sayHi() {
 <br>
 
 Given the code above, without running the code, answer the following question:
+
 1. What will be the output of the code above? Why?
-  <br>a) `ReferenceError: sayHi is not defined`
-  <br>b) `undefined`
-  <br>c) `"Hi there!"`
-  <br>d) `TypeError: sayHi is not a function`
+   <br>a) `ReferenceError: sayHi is not defined`
+   <br>b) `undefined`
+   <br>c) `"Hi there!"`
+   <br>d) `TypeError: sayHi is not a function`
 
 <br>
 
 Once you write down your answer, run the code above and check if your answer was correct.
-
 
 <br>
 
@@ -175,7 +168,7 @@ Once you write down your answer, run the code above and check if your answer was
 
 ```javascript
 const a = { num: 42 };
-const b = a; 
+const b = a;
 
 b.num = 90;
 
@@ -185,17 +178,16 @@ console.log(a);
 <br>
 
 Given the code above, without running the code, answer the following question:
-1. What will be the output of the code above? Why?
-  <br>a) TypeError: Assignment to constant variable.
-  <br>b) `{ num: 42 }`
-  <br>c) `{ num: 90 }`
-  <br>d) ReferenceError: a is not defined
 
+1. What will be the output of the code above? Why?
+   <br>a) TypeError: Assignment to constant variable.
+   <br>b) `{ num: 42 }`
+   <br>c) `{ num: 90 }`
+   <br>d) ReferenceError: a is not defined
 
 <br>
 
 Once you write down your answer, run the code above and check if your answer was correct.
-
 
 <br>
 
@@ -207,11 +199,11 @@ function magicHat(obj) {
   obj = { name: "Ada", age: 20 };
   return obj;
 }
-  
+
 const rabbit1 = { name: "Bob", age: 30 };
-  
+
 const rabbit2 = magicHat(rabbit1);
-  
+
 console.log("rabbit1: ", rabbit1);
 console.log("rabbit2: ", rabbit2);
 ```
@@ -219,15 +211,15 @@ console.log("rabbit2: ", rabbit2);
 <br>
 
 Given the code above, without running the code, answer the following question:
+
 1. What will be the output of the code above? Why?
-  <br>a) `{ name: "Bob", age: 30 }` and `{ name: "Ada", age: 20 }`
-  <br>b) `{ name: "Bob", age: 30 }` and `{ name: "Bob", age: 10 }`
-  <br>c) `{ name: "Bob", age: 10 }` and `{ name: "Ada", age: 20 }`
-  <br>d) ReferenceError: obj is not defined
+   <br>a) `{ name: "Bob", age: 30 }` and `{ name: "Ada", age: 20 }`
+   <br>b) `{ name: "Bob", age: 30 }` and `{ name: "Bob", age: 10 }`
+   <br>c) `{ name: "Bob", age: 10 }` and `{ name: "Ada", age: 20 }`
+   <br>d) ReferenceError: obj is not defined
 
 <br>
 
 Once you write down your answer, run the code above and check if your answer was correct.
-
 
 <br>
