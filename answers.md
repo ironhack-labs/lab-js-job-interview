@@ -11,9 +11,8 @@
 
 3. Challenge 3:
 
-- Answer: a
-- Explanation: the function can be invoked even before being defined because it's a function
-  declaration and works with hoisting.
+- Answer: c
+- Explanation: the function can be invoked even before being defined because it's a function declaration and works with hoisting.
 
 4. Challenge 4:
 
