@@ -20,5 +20,5 @@
 
 5. Bonus - Challenge 5:
 
-- Answer:
-- Explanation:
+- Answer: c
+- Explanation: The output will be "rabbit1: { name: "Bob", age: 10 }" and "rabbit2: { name: "Ada", age: 20 }" because the function takes rabbit1 as a parameter obj which now rederences the same object and updates the property age. With the line "obj = { name: "Ada", age: 20 };" the function assigns a new object to obj but at this point rabbit1 will remain unchanged. rabbit2 is set to the new object returned from the function.
