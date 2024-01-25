@@ -1,23 +1,23 @@
 1. Challenge 1:
-  - Answer: 
-  - Explanation: 
+  - Answer: b
+  - Explanation: let can change the value
 
 
 2. Challenge 2:
-  - Answer:
-  - Explanation:
+  - Answer:c
+  - Explanation: first console.log is in functions so it will print first 10 and than 1
 
 
 3. Challenge 3:
-  - Answer:
-  - Explanation:
+  - Answer:c
+  - Explanation: hoisting
 
 
 4. Challenge 4:
-  - Answer:
-  - Explanation:
+  - Answer:c
+  - Explanation: objects pass by reference
 
 
 5. Bonus - Challenge 5:
-  - Answer:
+  - Answer:no idea
   - Explanation:
