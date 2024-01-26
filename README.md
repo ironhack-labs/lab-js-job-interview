@@ -102,6 +102,7 @@ Given the code above, answer the following questions:
   <br>d) ReferenceError: foo is not defined
 
 
+
 <br>
 
 Once you write down your answer, run the code above and check if it is correct.
