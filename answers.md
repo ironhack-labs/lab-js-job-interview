@@ -19,6 +19,6 @@
 
 5. Bonus - Challenge 5:
   - Answer: 
-  - Explanation:
+  - Explanation: I have many questions regarding how this function is affecting the objects. I have looked for answers online but I will still leave this one blank.
 
 
