@@ -23,7 +23,4 @@
   - Answer: b
   - Explanation: rabbit1 has the properties name: bob and age: 30. rabbit 2 invokes magicHat on rabbit 1, which creates a copy of rabbit1's properties. magicHat then changes rabbit2's age property to 10 successfully. An object is immutable, and thus cannot be reassigned, so 'obj = { name: "Ada", age: 20} does nothing. magicHat then returns the the object it was given as an argument with only the age property changed.
 
-  Note: the console.logs would return:
-  rabbit1: {name: "Bob", age: 30}
-  rabbit2: {name: "Bob", age: 10}
 
