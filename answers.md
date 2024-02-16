@@ -19,4 +19,4 @@
 
 5. Bonus - Challenge 5:
   - Answer: c
-  - Explanation: To summarize, changes to an object's properties through a function parameter reflect on the original object due to the reference nature of objects in JavaScript. However, reassigning the function parameter to a new object creates a separate instance, leaving the original object unaffected by further modifications within the function. This behavior explains why modifications to obj inside the function affect rabbit1 initially but do not impact it after obj is reassigned to a new object, which is then returned and assigned to rabbit2."
+  - Explanation: Changes to an object's properties through a function parameter reflect on the original object due to the reference nature of objects in JavaScript. However, reassigning the function parameter to a new object creates a separate instance, leaving the original object unaffected by further modifications within the function. This behavior explains why modifications to obj inside the function affect rabbit1 initially but do not impact it after obj is reassigned to a new object, which is then returned and assigned to rabbit2."
