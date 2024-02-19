@@ -1,23 +1,23 @@
 1. Challenge 1:
-  - Answer: 
-  - Explanation: 
+  - Answer:   B
+  - Explanation:  Foo has changed
 
 
 2. Challenge 2:
-  - Answer:
-  - Explanation:
+  - Answer: A 
+  - Explanation: A has changed to 10
 
 
 3. Challenge 3:
-  - Answer:
-  - Explanation:
+  - Answer: C 
+  - Explanation: written in console.log
 
 
 4. Challenge 4:
-  - Answer:
-  - Explanation:
+  - Answer: b 
+  - Explanation: nothing has changed
 
 
 5. Bonus - Challenge 5:
-  - Answer:
-  - Explanation:
+  - Answer: A 
+  - Explanation: bob/30 referenced, Ada is maggichat
