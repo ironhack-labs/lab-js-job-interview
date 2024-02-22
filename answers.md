@@ -28,4 +28,4 @@ ok, I was wrong because were not redefining a were updating the values held insi
 
 - Explanation: A) (pedantic answer) Because were console logging a string which is present in none of the above answers.
 
-               B) (none pedantic interpretation) Answer c, presumably because we are passing the second variable "rabbit two' which has no inherent values through the function and therfore assimilates the oject variable where as rabbit one has its own space in memory where its variables can only be accessed or updated via dot nottation and presumable thus is why only Bobs age is updated by the function.
+               B) (none pedantic interpretation) Answer c, presumably because we are passing the second variable "rabbit two' which has no inherent values through the function and therfore assimilates the oject variable where as rabbit one has its own space in memory where its variables can only be accessed or updated via dot nottation and presumably this is why only Bobs age is  updated by the function.
