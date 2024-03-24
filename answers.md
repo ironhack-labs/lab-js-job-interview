@@ -1,6 +1,6 @@
 1. Challenge 1:
-  - Answer: 
-  - Explanation: 
+  - Answer: b
+  - Explanation: This will print "xyz" and "xyz". This is because when variable foo is redefine and changed the another value in the function it will mutate first global value and store the new value which is within the function. it can inherit from the parents.This is variable hoisting.
 
 
 2. Challenge 2:
