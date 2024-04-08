@@ -16,9 +16,9 @@
 4. Challenge 4:
 
 - Answer: c
-- Explanation: "b" dont copy "a" it takes access to the value of "a" and both can make changes that effect the other variable
+- Explanation: a and b are linked to each other. assigning b.num = 90 also mutates the property of a. Since both variables reference the same object, any changes to b's properties reflect on a as well.
 
 5. Bonus - Challenge 5:
 
-- Answer: a
-- Explanation: rabbit 2 get the last reassigned obj as return and because of block scope it doesnt effect the rabbit1 value
+- Answer: c
+- Explanation: c shows that rabbit1 has been mutated to { name: 'Bob', age: 10 } and rabbit2 was assigned a new object altogether, { name: 'Ada', age: 20 }. The initial mutation to obj.age affects rabbit1 directly since obj holds a reference to rabbit1. When obj is reassigned to a new object, this does not affect rabbit1 since it's a new reference.
