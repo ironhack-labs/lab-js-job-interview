@@ -4,8 +4,10 @@
 
 
 2. Challenge 2:
-  - Answer:
+  - Answer: b
   - Explanation:
+  variable foo has the value "abc"
+  function bar is invoked and has new value "xyz"
 
 
 3. Challenge 3:
