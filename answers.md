@@ -1,12 +1,12 @@
 1. Challenge 1:
 
 - Answer: b
-- Explanation: because it first declared as a global scope but inside the function again without declaration the variable, so it automaticly implements the "var" and overwrite the declaration above and becomes global scope
+- Explanation: because it is first declared as a let which is reassigneable and inside the function again, so it overwrite the declaration above and becomes a new value. but just because the function is called before.
 
 2. Challenge 2:
 
 - Answer: c
-- Explanation: because "a" will reassigned inside the function, but just for the example(a), how takes a copy of "let a=1". so just the copy of "a" becomes 10
+- Explanation: because "a" will reassigned inside the function, but just for the example(a), because of the functional scope
 
 3. Challenge 3:
 
