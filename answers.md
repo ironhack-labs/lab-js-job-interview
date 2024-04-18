@@ -19,5 +19,5 @@
 
 
 5. Bonus - Challenge 5:
-  - Answer:
+  - Answer: d 
   - Explanation:
