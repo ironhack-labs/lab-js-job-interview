@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# LAB | JS Challenges II (Intermediate)
+# LAB | JS Challenges II (Intermediate) 
 
 <p align="center">
   <img src="https://media.giphy.com/media/hNk0I3uRsRkZ4pT5l8/giphy.gif" alt="JS Technical Challenges" width="300"/>
