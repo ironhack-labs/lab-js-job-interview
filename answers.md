@@ -1,20 +1,20 @@
 1. Challenge 1:
-  - Answer: a
+  - Answer: b
   - Explanation: the function is run so it attirbute "xyz" to abc and log "xyz".
 
 
 2. Challenge 2:
-  - Answer: a
+  - Answer: c
   - Explanation: same explanation as 1.
  
 
 3. Challenge 3:
-  - Answer: a
-  - Explanation: sayHi() is declared but not defined
+  - Answer: c
+  - Explanation: sayHi() is hoisted to the ttop
 
 
 4. Challenge 4:
-  - Answer: c
+  - Answer: b
   - Explanation: a & b adress directly the same object
 
 
