@@ -1,5 +1,5 @@
 1. Challenge 1:
-  - Answer: 
+  - Answer: b
   - Explanation: 
 
 
