@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+
+        function magicHat(obj) {
+            obj.age = 10;
+            obj = { name: "Ada", age: 20 };
+            return obj;
+        }
+
+        const rabbit1 = { name: "Bob", age: 30 };
+
+        const rabbit2 = magicHat(rabbit1);
+
+        console.log("rabbit1: ", rabbit1);
+        console.log("rabbit2: ", rabbit2);
+    </script>
+</body>
+
+</html>
