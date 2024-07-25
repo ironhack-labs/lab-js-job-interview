@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. Challenge 1:
   - Answer: a
   - Explanation: first prints let foo, then with the function invoked and changes
@@ -24,3 +25,28 @@
   - Answer:rabbit1, then rabbit 2 ----- a
   - Explanation: rabbit 1 , 
   rabbit 2, is maghichat  is baiit 1, gets returned as obj in function. i guessed, and was right.( but dont understand all) 
+=======
+1. Challenge 1:
+  - Answer: 
+  - Explanation: 
+
+
+2. Challenge 2:
+  - Answer:
+  - Explanation:
+
+
+3. Challenge 3:
+  - Answer:
+  - Explanation:
+
+
+4. Challenge 4:
+  - Answer:
+  - Explanation:
+
+
+5. Bonus - Challenge 5:
+  - Answer:
+  - Explanation:
+>>>>>>> 4ebe019ff0194071969e01d55ab0dc588711c6ab
