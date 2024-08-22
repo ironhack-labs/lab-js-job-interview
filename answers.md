@@ -1,23 +1,28 @@
 1. Challenge 1:
-  - Answer: 
-  - Explanation: 
 
+- Answer: a
+  (b)
+- Explanation:
 
 2. Challenge 2:
-  - Answer:
-  - Explanation:
 
+- Answer: a
+  (c)
+- Explanation:
 
 3. Challenge 3:
-  - Answer:
-  - Explanation:
 
+- Answer: a
+  (b)
+- Explanation:
 
 4. Challenge 4:
-  - Answer:
-  - Explanation:
 
+- Answer: a
+  (c)
+- Explanation:
 
-5. Bonus - Challenge 5:
-  - Answer:
-  - Explanation:
+5. Bonus - Challenge 5: a
+
+- Answer: (c)
+- Explanation:
