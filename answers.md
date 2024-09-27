@@ -19,5 +19,5 @@
 
 
 5. Bonus - Challenge 5:
-  - Answer: A
-  - Explanation: First print is just the const declare in line 7. Second print is rabbi2, that is the result for calling to the function magicHat, that returns the obj declared inside the function, the first line assigns a new age value, but this value will be overwrite with the declaration of obj so the input is egal, it will always return obj = { name: "Ada", age: 20 };
+  - Answer: C
+  - Explanation: First print is the const declare in line 7 with the changes for the function because when we called it we apply changes in this object. Second print is rabbi2, that is the result for calling to the function magicHat, that returns the obj declared inside the function, the first line assigns a new age value, but this value will be overwrite with the declaration of obj so the input is egal, it will always return obj = { name: "Ada", age: 20 };
