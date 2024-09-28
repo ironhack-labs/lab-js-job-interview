@@ -1,23 +1,23 @@
 1. Challenge 1:
-  - Answer: 
-  - Explanation: 
+  - Answer: b
+  - Explanation: let is globally placed
 
 
 2. Challenge 2:
-  - Answer:
-  - Explanation:
+  - Answer: c 
+  - Explanation: arg becomes a local
 
 
 3. Challenge 3:
-  - Answer:
-  - Explanation:
+  - Answer:c
+  - Explanation:Hoisting
 
 
 4. Challenge 4:
-  - Answer:
-  - Explanation:
+  - Answer:b
+  - Explanation:obj by ref
 
 
 5. Bonus - Challenge 5:
-  - Answer:
-  - Explanation:
+  - Answer:c
+  - Explanation: Still not so clear
