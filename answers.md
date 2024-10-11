@@ -14,8 +14,8 @@
 
 
 4. Challenge 4:
-  - Answer:
-  - Explanation:
+  - Answer: c
+  - Explanation: Since variable "a" contains a non-primitive data type (object), it is assigned to variable "b" by reference, not by value. This means that "b" and "a" point to the same object that occupies it's own space in memory. Thus, modifying the property "num" in either variable will make the object mutate and that will be reflected in both variables. 
 
 
 5. Bonus - Challenge 5:

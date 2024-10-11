@@ -1,4 +1,4 @@
-
+/* 
 // Challenge 1
 
 let foo = "abc";
@@ -34,7 +34,15 @@ console.log(a);  // Console log 2
 sayHi();
 
 function sayHi() {
-  console.log("Hi there!");
+    console.log("Hi there!");
 }
+ */
 
+// Challenge 4
 
+const a = { num: 42 };
+const b = a; 
+
+b.num = 90;
+
+console.log(a);
