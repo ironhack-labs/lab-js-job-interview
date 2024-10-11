@@ -4,8 +4,8 @@
 
 
 2. Challenge 2:
-  - Answer:
-  - Explanation:
+  - Answer: c
+  - Explanation: since the argument passed to the function is a variable that contains a primitive data type (number), the variable is passed by value, not by refference, so the original variable is not mutated. "a" inside the function is a new variable that represents the function parameter, so it could be any name, it just happens to have the same name as the outer variable (shadowing). When the value of "a" is passed to the function as an argument in the function call, the inner variable "a" gets initialised with this value and then updated to value 10, but the outer variable stays the same. Then the function prints the value of the inner variable "a" (10) and afterwards the console.log after the function call prints the value of the outer variable "a" (1).
 
 
 3. Challenge 3:
