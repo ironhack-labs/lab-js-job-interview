@@ -27,3 +27,14 @@ example(a);
 
 
 console.log(a);  // Console log 2
+
+
+// Challenge 3
+
+sayHi();
+
+function sayHi() {
+  console.log("Hi there!");
+}
+
+

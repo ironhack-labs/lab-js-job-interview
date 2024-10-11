@@ -9,8 +9,8 @@
 
 
 3. Challenge 3:
-  - Answer:
-  - Explanation:
+  - Answer: c
+  - Explanation: Due to hoisting, the function can be executed by a function call even before its declaration, because all variables and function declarations are moved to the top of their scope before executing the code.
 
 
 4. Challenge 4:
