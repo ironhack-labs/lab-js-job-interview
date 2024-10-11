@@ -19,5 +19,5 @@
 
 
 5. Bonus - Challenge 5:
-  - Answer:
-  - Explanation:
+  - Answer: c
+  - Explanation: When rabbit1 is passed as an argument to the magicHat function, since it contains a non-primitive data type (object) it is passed by reference, which means that the variable created by the parameter "obj" will get the object reference and point to the same object in memory as rabbit1. Then, when the property .age of this object is modified through the obj variable, the object mutates and this is reflected in rabbit1 as well (since it still points to that same object). Then, since contrary to rabbit1, obj is not a const variable, it can be reassigned a new value, and this is what happens when it is assigned a new object. This does not modify the object of rabbit1 because it represents a new object with a new refference in memory, so here the only thing that happens is that now obj points to the new object instead of pointing to the rabbit1 object (it gets a new refference). Finally, the function returns the new object inside the variable obj, which is assigned to rabbit2, and then the two objects get printed in the console (rabbit1 with the age property modified; and rabbit 2 with the new object).
