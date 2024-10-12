@@ -15,7 +15,7 @@
 
 4. Challenge 4:
   - Answer: c 
-  - Explanation: we change the valor of b using dot notation 
+  - Explanation: we change the valor of b using dot notation.
 
 
 5. Bonus - Challenge 5:
