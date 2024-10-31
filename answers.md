@@ -1,23 +1,23 @@
 1. Challenge 1:
-  - Answer: 
+  - Answer: xyz xyz
   - Explanation: 
 
 
 2. Challenge 2:
-  - Answer:
+  - Answer:10 1
   - Explanation:
 
 
 3. Challenge 3:
-  - Answer:
+  - Answer: "Hi there!"
   - Explanation:
 
 
 4. Challenge 4:
-  - Answer:
+  - Answer: { num: 90 }
   - Explanation:
 
 
 5. Bonus - Challenge 5:
-  - Answer:
+  - Answer: { name: "Bob", age: 10 } and { name: "Ada", age: 20 }
   - Explanation:
