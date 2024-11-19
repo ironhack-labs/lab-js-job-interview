@@ -21,7 +21,7 @@ When the function was called, it displayed the value assigned in the function sc
   - Answer: c
   - Explanation: An object was created and stored in memory. "const = b" received the same reference as "a", and now the variables point to the same object.
 
-The "num" property of the object was changed to 90, since "a" and "b" point to the same object, when printing, the modified object is shown.
+The "num" property of the object was changed to 90, since "a" and "b" point to the same object, when printing, the modified object is shown, answer would be { num: 90 }.
 
 
 5. Bonus - Challenge 5:
