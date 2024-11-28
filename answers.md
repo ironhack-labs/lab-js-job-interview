@@ -1,6 +1,6 @@
 1. Challenge 1:
-  - Answer: 
-  - Explanation: 
+  - Answer: a
+  - Explanation: The output of the code will be "abc" && "xyx" because it's logging and then calling the function
 
 
 2. Challenge 2:
